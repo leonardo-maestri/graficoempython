@@ -38,3 +38,4 @@ sea.despine()
 
 # Mostrar o gráfico
 plt.show()
+# grafico resultante está no readme
